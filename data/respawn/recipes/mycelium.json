@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " a ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "tag": "respawn:mushrooms"
+        },
+        "a": {
+            "item": "minecraft:dirt"
+        }
+    },
+    "result": {
+        "item": "minecraft:mycelium",
+        "count": 3
+    }
+}

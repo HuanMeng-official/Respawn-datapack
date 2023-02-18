@@ -1,0 +1,9 @@
+{
+    "type": "smoking",
+    "ingredient": [
+        {"item": "minecraft:cobblestone"}
+    ],
+    "experience": 0.1,
+    "cookingtime": 100,
+    "result": "minecraft:cobbled_deepslate"
+}

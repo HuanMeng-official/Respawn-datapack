@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {"tag": "respawn:shulker_box"}
+    ],
+    "result": {
+        "item": "minecraft:shulker_spawn_egg",
+        "count": 3
+    }
+}

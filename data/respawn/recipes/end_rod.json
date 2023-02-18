@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#a#",
+        "bbb"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_stained_glass"
+        },
+        "a": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "b": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "result": {
+        "item": "minecraft:end_rod",
+        "count": 3
+    }
+}

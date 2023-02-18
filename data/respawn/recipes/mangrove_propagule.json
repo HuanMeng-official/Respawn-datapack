@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " a ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "tag": "respawn:tree_sapling"
+        },
+        "a": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:mangrove_propagule",
+        "count": 3
+    }
+}

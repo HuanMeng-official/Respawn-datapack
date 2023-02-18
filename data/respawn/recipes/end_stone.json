@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {"item": "minecraft:cobblestone"},
+        {"item": "minecraft:yellow_dye"}
+    ],
+    "result": {
+        "item": "minecraft:end_stone",
+        "count": 1
+    }
+}
